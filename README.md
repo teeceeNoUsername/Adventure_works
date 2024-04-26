@@ -2,6 +2,7 @@
 
 
 ### The Brief
+---
 **Track KPIs** (sales, revenue, profit, returns), **compare regional performance, analyze product-level trends and forecasts**, and identify **high-value customers**
 
 ### Date Sources
