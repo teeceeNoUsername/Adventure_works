@@ -116,7 +116,7 @@ The analysis result are summarized as follows:
 - Interest in marketing and promotion durng peak sales to maximize revenue
 - Focus on expanding and promoting Clothing Products Category
 
-### Refernces
+### References
 - Maven Analytics
 - [Youtube](http://youtube.com)
 
